@@ -1,0 +1,15 @@
+body {
+    transition: background-color 0.5s, color 0.5s;
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+}
